@@ -1,6 +1,6 @@
 using System;
 
-namespace LaboratoryWork7
+namespace Task1
 {
     internal class Task1
     {
