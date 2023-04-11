@@ -1,0 +1,15 @@
+E:\NewVSCODE\Lab9\Lab9\bin\Debug\net6.0\Lab9.exe
+E:\NewVSCODE\Lab9\Lab9\bin\Debug\net6.0\Lab9.deps.json
+E:\NewVSCODE\Lab9\Lab9\bin\Debug\net6.0\Lab9.runtimeconfig.json
+E:\NewVSCODE\Lab9\Lab9\bin\Debug\net6.0\Lab9.dll
+E:\NewVSCODE\Lab9\Lab9\bin\Debug\net6.0\Lab9.pdb
+E:\NewVSCODE\Lab9\Lab9\obj\Debug\net6.0\Lab9.csproj.AssemblyReference.cache
+E:\NewVSCODE\Lab9\Lab9\obj\Debug\net6.0\Lab9.GeneratedMSBuildEditorConfig.editorconfig
+E:\NewVSCODE\Lab9\Lab9\obj\Debug\net6.0\Lab9.AssemblyInfoInputs.cache
+E:\NewVSCODE\Lab9\Lab9\obj\Debug\net6.0\Lab9.AssemblyInfo.cs
+E:\NewVSCODE\Lab9\Lab9\obj\Debug\net6.0\Lab9.csproj.CoreCompileInputs.cache
+E:\NewVSCODE\Lab9\Lab9\obj\Debug\net6.0\Lab9.dll
+E:\NewVSCODE\Lab9\Lab9\obj\Debug\net6.0\refint\Lab9.dll
+E:\NewVSCODE\Lab9\Lab9\obj\Debug\net6.0\Lab9.pdb
+E:\NewVSCODE\Lab9\Lab9\obj\Debug\net6.0\Lab9.genruntimeconfig.cache
+E:\NewVSCODE\Lab9\Lab9\obj\Debug\net6.0\ref\Lab9.dll

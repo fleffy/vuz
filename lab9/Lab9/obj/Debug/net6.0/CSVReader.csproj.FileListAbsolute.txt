@@ -1,0 +1,15 @@
+E:\NewVSCODE\Lab9\Lab9\bin\Debug\net6.0\CSVReader.exe
+E:\NewVSCODE\Lab9\Lab9\bin\Debug\net6.0\CSVReader.deps.json
+E:\NewVSCODE\Lab9\Lab9\bin\Debug\net6.0\CSVReader.runtimeconfig.json
+E:\NewVSCODE\Lab9\Lab9\bin\Debug\net6.0\CSVReader.dll
+E:\NewVSCODE\Lab9\Lab9\bin\Debug\net6.0\CSVReader.pdb
+E:\NewVSCODE\Lab9\Lab9\obj\Debug\net6.0\CSVReader.csproj.AssemblyReference.cache
+E:\NewVSCODE\Lab9\Lab9\obj\Debug\net6.0\CSVReader.GeneratedMSBuildEditorConfig.editorconfig
+E:\NewVSCODE\Lab9\Lab9\obj\Debug\net6.0\CSVReader.AssemblyInfoInputs.cache
+E:\NewVSCODE\Lab9\Lab9\obj\Debug\net6.0\CSVReader.AssemblyInfo.cs
+E:\NewVSCODE\Lab9\Lab9\obj\Debug\net6.0\CSVReader.csproj.CoreCompileInputs.cache
+E:\NewVSCODE\Lab9\Lab9\obj\Debug\net6.0\CSVReader.dll
+E:\NewVSCODE\Lab9\Lab9\obj\Debug\net6.0\refint\CSVReader.dll
+E:\NewVSCODE\Lab9\Lab9\obj\Debug\net6.0\CSVReader.pdb
+E:\NewVSCODE\Lab9\Lab9\obj\Debug\net6.0\CSVReader.genruntimeconfig.cache
+E:\NewVSCODE\Lab9\Lab9\obj\Debug\net6.0\ref\CSVReader.dll
