@@ -1,0 +1,17 @@
+E:\NewVSCODE\Lab9\JSONReader\bin\Debug\net6.0\JSONReader.exe
+E:\NewVSCODE\Lab9\JSONReader\bin\Debug\net6.0\JSONReader.deps.json
+E:\NewVSCODE\Lab9\JSONReader\bin\Debug\net6.0\JSONReader.runtimeconfig.json
+E:\NewVSCODE\Lab9\JSONReader\bin\Debug\net6.0\JSONReader.dll
+E:\NewVSCODE\Lab9\JSONReader\bin\Debug\net6.0\JSONReader.pdb
+E:\NewVSCODE\Lab9\JSONReader\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\NewVSCODE\Lab9\JSONReader\obj\Debug\net6.0\JSONReader.csproj.AssemblyReference.cache
+E:\NewVSCODE\Lab9\JSONReader\obj\Debug\net6.0\JSONReader.GeneratedMSBuildEditorConfig.editorconfig
+E:\NewVSCODE\Lab9\JSONReader\obj\Debug\net6.0\JSONReader.AssemblyInfoInputs.cache
+E:\NewVSCODE\Lab9\JSONReader\obj\Debug\net6.0\JSONReader.AssemblyInfo.cs
+E:\NewVSCODE\Lab9\JSONReader\obj\Debug\net6.0\JSONReader.csproj.CoreCompileInputs.cache
+E:\NewVSCODE\Lab9\JSONReader\obj\Debug\net6.0\JSONReader.csproj.CopyComplete
+E:\NewVSCODE\Lab9\JSONReader\obj\Debug\net6.0\JSONReader.dll
+E:\NewVSCODE\Lab9\JSONReader\obj\Debug\net6.0\refint\JSONReader.dll
+E:\NewVSCODE\Lab9\JSONReader\obj\Debug\net6.0\JSONReader.pdb
+E:\NewVSCODE\Lab9\JSONReader\obj\Debug\net6.0\JSONReader.genruntimeconfig.cache
+E:\NewVSCODE\Lab9\JSONReader\obj\Debug\net6.0\ref\JSONReader.dll
