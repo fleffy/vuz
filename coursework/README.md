@@ -7,7 +7,7 @@ You can try it by yourself [here :space_invader:!](https://github.com/fleffy/vuz
 
 ## How to use?
 ### 1. Download the [Car Parking Manager](https://github.com/fleffy/vuz/releases/)
-![Download CPM Screenshot](https://i.ibb.co/r79ZRZv/1-Small.jpg)
+![Download CPM Screenshot](https://i.ibb.co/5LDvFmk/1-Small.jpg)
 
 ### 2. Download [SQL Server Management Studio(SSMS)](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16)
 ![Download SSMS screenshot](https://i.ibb.co/JxQ2gKR/2-Small.jpg)
