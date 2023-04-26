@@ -1,5 +1,5 @@
 
-# Car Parking Manager
+# Car Parking Manager | How to install? | Preview Screenshots
 
 You can try it by yourself [here :space_invader:!](https://github.com/fleffy/vuz/releases/)
 
